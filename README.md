@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KushtrimIbishi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Flutter & Dart
+- 🌱 I’m currently working as a Junior React Developer
 - 📫 How to reach me kushtrimibishi01@gmail.com
 
 <!---
